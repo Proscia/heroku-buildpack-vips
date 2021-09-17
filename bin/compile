@@ -24,7 +24,7 @@ cd $BUILD_DIR
 
 output_dir="${BUILD_DIR}/vendor/vips"
 # Output library also to temp dir accordingly to pkg-config paths
-temp_app_dir="/app/vendor/vips
+temp_app_dir="/app/vendor/vips"
 mkdir -p $output_dir
 mkdir -p $temp_app_dir
 
